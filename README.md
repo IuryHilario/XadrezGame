@@ -1,2 +1,2 @@
-# XadrezGame
+# Xadrez
 Um jogo de Xadrez
