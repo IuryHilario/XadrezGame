@@ -44,17 +44,6 @@ python Xadrez.py
 - Python
 - Pygame
 
-## 📁 Estrutura do projeto
-
-```
-Xadrez-PY/
-│
-├── Xadrez.py                 # Arquivo principal do jogo
-├── projectXadrez/           # Pasta com as imagens das peças
-│   ├── pecas_brancas/      # Imagens das peças brancas
-│   └── pecas_pretas/       # Imagens das peças pretas
-```
-
 ## ⚖️ Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
